@@ -7,5 +7,6 @@
   
 * 46.全排列
 
+使用used数组去重，backtracking调用次数为O(n!)
   
 * 47.全排列 II
